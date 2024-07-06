@@ -1,0 +1,2 @@
+#define SERIALMATH_API __declspec(dllexport)
+#define SERIALMATH_API __declspec(dllimport)
